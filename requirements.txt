@@ -1,0 +1,16 @@
+six
+flask
+Flask_Cors==3.0.7
+Requests==2.20.1
+python-dotenv
+authlib
+numpy==1.15.4
+sendgrid
+pymongo
+gunicorn
+wtforms
+flask_sslify
+Flask-Caching==1.4.0
+pylibmc==1.5.2
+sqreen
+Flask-Session
