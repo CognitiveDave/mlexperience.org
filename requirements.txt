@@ -4,7 +4,7 @@ Flask_Cors==3.0.7
 Requests==2.20.1
 python-dotenv
 authlib
-numpy==1.15.4
+numpy==1.22.0
 sendgrid
 pymongo
 gunicorn
